@@ -14,7 +14,7 @@ The main purpose of this repository is the one of hold the solution to the propo
 * Homeworks 04 (Binary heaps): [`04_homework`](exercises/04_homework/04_homework.md).
 * Homeworks 04 (Binary heaps, alternative implementation): [`04_homework_2`](exercises/04_homework_2/04_homework2.md).
 * Homeworks 05 (Sorting): [`05_homework`](exercises/05_homework/05_homework.md).
-* Homeworks 05 (Sorting, generalization of $\mathrm{SELECT}$): [`05_homework2`](exercises/05_homework2).
+* Homeworks 05 (Sorting, generalization of $\mathrm{SELECT}$): [`05_homework2`](exercises/05_homework2/05_homework_2.md).
 * Homeworks 08 (Dijkstra's algorithm): [`08_homework`](exercises/08_homework/08_homework.md).
 
 The folders with the  implemented **code** are the following:
