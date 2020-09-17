@@ -1,4 +1,4 @@
-# 04_homework
+# 04_homework_2
 
 Here it can be found a brief explanation about the solution of the practical exercises and the solutions for theoretical exercises. The code can be found on [`AD_bin_heaps_modified`](../../AD_bin_heaps_modified): the implemented code is available in [`src/binheap.c`](../../AD_bin_heaps_modified/src).
 

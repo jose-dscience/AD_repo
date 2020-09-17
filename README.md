@@ -10,12 +10,12 @@ This is the repository with the solutions to the exercises of Algorithmic Dessig
 
 The main purpose of this repository is the one of hold the solution to the proposed exercises. These exercises can be found into `AD_repo/exercises`, organized by the name of the pdf in which it was the text of the exercises. The **exercises folders** are the following:
 
-* Homeworks 02 (Strassen algorithm): [`02_homework`](exercises/02_homework).
-* Homeworks 04 (Binary heaps): [`04_homework`](exercises/04_homework).
-* Homeworks 04 (Binary heaps, alternative implementation): [`04_homework_2`](exercises/04_homework_2).
-* Homeworks 05 (Sorting): [`05_homework`](exercises/05_homework).
+* Homeworks 02 (Strassen algorithm): [`02_homework`](exercises/02_homework/02_homework.md).
+* Homeworks 04 (Binary heaps): [`04_homework`](exercises/04_homework/04_homework.md).
+* Homeworks 04 (Binary heaps, alternative implementation): [`04_homework_2`](exercises/04_homework_2/04_homework2.md).
+* Homeworks 05 (Sorting): [`05_homework`](exercises/05_homework/05_homework.md).
 * Homeworks 05 (Sorting, generalization of $\mathrm{SELECT}$): [`05_homework2`](exercises/05_homework2).
-* Homeworks 08 (Dijkstra's algorithm): [`08_homework`](exercises/08_homework).
+* Homeworks 08 (Dijkstra's algorithm): [`08_homework`](exercises/08_homework/08_homework.md).
 
 The folders with the  implemented **code** are the following:
 
