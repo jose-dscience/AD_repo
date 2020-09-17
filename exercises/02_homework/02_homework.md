@@ -1,6 +1,6 @@
 # 02_homework
 
-Here it can be found a brief explanation about the solution of the exercises. Implementations can be found on the source files of [`AD_strassen_template`](../../AD_strassen_template): `strassen.c` and `strassen_optimized.c`. `test.c` has been modified in order to include a version of the code with the improvement suggested on exercise 2. In the current implementation, it has been taken a threshold of `n=100` in order to use the naive algorithm or Strassen's algorithm.
+Here it can be found a brief explanation about the solution of the exercises. Implementations can be found on the source files of [`AD_strassen_template`](/AD_strassen_template): `strassen.c` and `strassen_optimized.c`. `test.c` has been modified in order to include a version of the code with the improvement suggested on exercise 2. In the current implementation, it has been taken a threshold of `n=100` in order to use the naive algorithm or Strassen's algorithm.
 
 ## Exercise 1
 
@@ -24,6 +24,6 @@ Here there are both semilog and log-log representations:
 
 ![semilog](./semilog.png)
 
-![loglog](/home/jose/Escritorio/Magistrale/Algoritmic_Dessign/exercises/02_homework/loglog.png)
+![loglog](./loglog.png)
 
 As it can be seen, it is a notable difference between the naive and Strassen algorithms. However, the difference with the optimized version of the algorithm is such little. Moreover, with a such big value of n, it possibly could be observed some difference. 
